@@ -9,5 +9,3 @@ Every month a fertile female will have 14 offspring (5 males and 9 females).
 A female rabbit is fertile when it has reached the age of 4 months, they never stop being fertile.
 Rabbits die at the age of 8 years (96 months).
 
-
-The idea originally from reddit/dailyprogrammer: https://www.reddit.com/r/dailyprogrammer/comments/7s888w/20180122_challenge_348_easy_the_rabbit_problem/
